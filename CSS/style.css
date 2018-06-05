@@ -1,0 +1,64 @@
+
+<style>
+
+	header {
+		text-align: center;
+		background-image: url("cloud.jpg");
+		background-size: cover;
+		padding-top: 200px;
+
+	}
+
+	body {
+		
+		
+	}
+
+	h1 {
+		font-size: 6em;
+		font-family: helvetica;
+		color: white;
+
+		
+	}
+
+	p {
+		font-size: 2em;
+		font-family: helvetica;
+		text-align: justify;
+		color: grey;
+	}
+
+	ul {
+     	padding: 20px;
+     	background: rgba(199,239,136,0.5);
+     	text-align: center;
+     	size: 4em;
+	}
+
+	 a {
+
+	 	color: white;
+	 }
+
+     li {
+     	display: inline;
+   	 	padding: 0px 50px 0px 50px;
+    	font-family: helvetica;
+    	font-size: 20px;
+     	color: white;
+
+	}
+
+	.firstp {
+		padding: 20px 90px 20px 90px;
+
+	}
+
+	}
+</style>
+
+
+
+
+
