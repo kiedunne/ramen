@@ -1,0 +1,95 @@
+
+
+	.myHeader {
+		height: 300px;
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		background-image: url("cloud.jpg");
+		background-repeat: no-repeat;
+		background-position: 60% 30%;
+		background-size: cover;
+		
+		
+	}
+
+	.nav {
+
+		width: 100%;
+		
+
+	}
+	
+	
+
+	h1 {
+		padding: 60px 0 0 0;
+		text-align: center;
+		font-size: 6em;
+		font-family: helvetica;
+		color: white;
+
+		
+	}
+
+	
+	ul {
+		padding: 20px;
+     	background: rgba(199,239,136,0.4);
+     	text-align: center;
+     	size: 4em;
+     	height: 60px;
+     	width: 100%;
+		margin: 0 auto;
+    
+	}
+
+	 li {
+     	display: inline;	
+    	font-family: helvetica;
+    	font-size: 20px;
+     	color: white;
+	
+	}
+
+	a {
+	 	color: white;
+	 	padding: 20px 40px 20px 40px;
+	 	margin: 0 auto;
+	 	text-align: center;
+	 }
+
+     
+
+	.paragraphs {
+		padding: 20px 200px 20px 200px;
+		
+
+	}
+
+	.indeximages {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
+	
+     body {
+		
+		
+	}
+
+	p {
+		font-size: 2em;
+		font-family: helvetica;
+		text-align: justify;
+		color: grey;
+
+	}
+
+	
+
+	
+
